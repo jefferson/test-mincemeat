@@ -25,3 +25,7 @@ Para realizar a pesquisa acima foram realizados os seguintes filtros durante a e
 O código que executou a contagem acima pode ser verificado em: amostragem_de_palavras.py
 
 o resultado completo da contagem das palavras pode ser verificado no arquivo Ocorrencias.csv
+
+# Dependência
+
+### Para realizar o processamento em instâncias paralelas utilizando funções de mapeamento e redução foi utilizad a biblioteca [mincemeatpy](https://github.com/michaelfairley/mincemeatpy).
